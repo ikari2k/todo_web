@@ -25,4 +25,5 @@ st.text_input(label="New todo" , placeholder="Add new todo...",
               label_visibility="hidden", on_change=add_todo, key='new_todo')
 
 
-st.session_state
+#st.session_state
+##run app by using command: stremalit run web.py
