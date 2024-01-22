@@ -27,3 +27,4 @@ st.text_input(label="New todo" , placeholder="Add new todo...",
 
 #st.session_state
 ##run app by using command: stremalit run web.py
+## https://ikari2todoweb.streamlit.app/
